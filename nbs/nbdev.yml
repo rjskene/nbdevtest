@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtest"
+  site-url: "https://rjskene.github.io/nbdevtest"
+  description: "test"
+  repo-branch: master
+  repo-url: "https://github.com/rjskene/nbdevtest"
